@@ -14,6 +14,6 @@ stopwatch-project
   ├── script.js         # Stopwatch logic in JavaScript
   └── bg.jpg            # Background image
 🚀 How to Use
-Clone or download the repository.
-Make sure bg.jpg is in the same folder as your index.html.
-Open index.html in your browser.
+->Clone or download the repository.
+->Make sure bg.jpg is in the same folder as your index.html.
+->Open index.html in your browser.
